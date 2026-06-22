@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "desc":"Chevette",
+        "imagem": "../../public/radio_chevete.jpg",
+        "valor":1234.56789
+
+    },
+    {
+        "id": 2,
+        "desc":"Monza",
+        "imagem": "../../public/radio_monza.jpg",
+        "valor":1234.56789
+
+    },{
+        "id": 3,
+        "desc":"Omega",
+        "imagem": "../../public/radio_omega.jpg",
+        "valor":1234.56789
+
+    }
+]
