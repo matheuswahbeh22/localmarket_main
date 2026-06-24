@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "desc": "Chevette",
+    "imagem": "/carros/chevette.jpg",
+    "valor": 1234.56
+  },
+  {
+    "id": 2,
+    "desc": "Monza",
+    "imagem": "/carros/monza.jpg",
+    "valor": 2345.67
+  },
+  {
+    "id": 3,
+    "desc": "Omega",
+    "imagem": "/carros/omega.jpg",
+    "valor": 3456.78
+  },
+  {
+    "id": 4,
+    "desc": "Opala",
+    "imagem": "/carros/opala.jpg",
+    "valor": 4567.89
+    },
+    {
+    "id": 5,
+    "desc": "Fusca",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/VW_Beetle_1966.jpg",
+    "valor": 5678.90
+},
+  {
+    "id": 6,
+    "desc": "Brasília",
+    "imagem": "/carros/brasilia.jpg",
+    "valor": 6789.01
+  },
+  {
+    "id": 7,
+    "desc": "Variant",
+    "imagem": "/carros/variant.jpg",
+    "valor": 7890.12
+  },
+  {
+    "id": 8,
+    "desc": "Maverick",
+    "imagem": "/carros/maverick.jpg",
+    "valor": 8901.23
+  },
+  {
+    "id": 9,
+    "desc": "Galaxie",
+    "imagem": "/carros/galaxie.jpg",
+    "valor": 9012.34
+  },
+  {
+    "id": 10,
+    "desc": "Corcel",
+    "imagem": "/carros/corcel.jpg",
+    "valor": 10123.45
+  },
+  {
+    "id": 11,
+    "desc": "Del Rey",
+    "imagem": "/carros/delrey.jpg",
+    "valor": 11234.56
+  },
+  {
+    "id": 12,
+    "desc": "Santana",
+    "imagem": "/carros/santana.jpg",
+    "valor": 12345.67
+  },
+  {
+    "id": 13,
+    "desc": "Kombi",
+    "imagem": "/carros/kombi.jpg",
+    "valor": 13456.78
+  },
+  {
+    "id": 14,
+    "desc": "Passat",
+    "imagem": "/carros/passat.jpg",
+    "valor": 14567.89
+  },
+  {
+    "id": 15,
+    "desc": "Dodge Dart",
+    "imagem": "/carros/dodge-dart.jpg",
+    "valor": 15678.9
+  }
+]
