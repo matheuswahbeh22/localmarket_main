@@ -2,91 +2,91 @@
   {
     "id": 1,
     "desc": "Chevette",
-    "imagem": "/carros/chevette.jpg",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Chevette_1985.png",
     "valor": 1234.56
   },
   {
     "id": 2,
     "desc": "Monza",
-    "imagem": "/carros/monza.jpg",
+    "imagem": "https://s2-autoesporte.glbimg.com/3tQ_qCWsW-4X2n5ASyKKeZaLn4c=/0x0:620x413/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/D/H/x6ZIJIT2KwZABkJrFyFA/2016-08-19-monza08.jpg",
     "valor": 2345.67
   },
   {
     "id": 3,
     "desc": "Omega",
-    "imagem": "/carros/omega.jpg",
+    "imagem": "https://catarina-prd.s3.sa-east-1.amazonaws.com/bda9775d4793d54884e71610b8bfd6fe.jfif",
     "valor": 3456.78
   },
   {
     "id": 4,
     "desc": "Opala",
-    "imagem": "/carros/opala.jpg",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chevrolet_Opala_SS_19744.jpg/1280px-Chevrolet_Opala_SS_19744.jpg",
     "valor": 4567.89
     },
     {
     "id": 5,
     "desc": "Fusca",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/VW_Beetle_1966.jpg",
+    "imagem": "https://lartbr.com.br/wp-content/uploads/2025/05/att.L6USvT4cJ703MFk4h2k5yZ3JcznBFahNL1WRDefa71k.jpeg",
     "valor": 5678.90
 },
   {
     "id": 6,
     "desc": "Brasília",
-    "imagem": "/carros/brasilia.jpg",
+    "imagem": "https://i0.statig.com.br/bancodeimagens/2g/g8/et/2gg8etu9kjw9mx1ishpbjdfte.jpg",
     "valor": 6789.01
   },
   {
     "id": 7,
     "desc": "Variant",
-    "imagem": "/carros/variant.jpg",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8_YTBSiG8OeYpTzWJp9I_jq8vB2so94K1tLHurBSMpZQ88itkXaNA0U&s=10",
     "valor": 7890.12
   },
   {
     "id": 8,
     "desc": "Maverick",
-    "imagem": "/carros/maverick.jpg",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mwccbaZmfGOBc1QC_bRLv4ssX-l2UHQEvGT9PLOpMaVwxbBKBVrwqsk&s=10",
     "valor": 8901.23
   },
   {
     "id": 9,
     "desc": "Galaxie",
-    "imagem": "/carros/galaxie.jpg",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h1jCLqNR-cBOU62Zi1Fq4BE7jhMXghsD7uaBEpkQhIWEK8F-D838H1aU&s=10",
     "valor": 9012.34
   },
   {
     "id": 10,
     "desc": "Corcel",
-    "imagem": "/carros/corcel.jpg",
+    "imagem": "https://s2-autoesporte.glbimg.com/5SysJpJv_VWzRt4KufAh_o3tVxQ=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/7/U/dWh4yBRqqXYr7YnnvlMQ/2018-07-20-corcelcupe.jpg",
     "valor": 10123.45
   },
   {
     "id": 11,
     "desc": "Del Rey",
-    "imagem": "/carros/delrey.jpg",
+    "imagem": "https://www.autoentusiastas.com.br/ae/wp-content/uploads/2017/01/580e878e0e2163027009fa7eqr-687-classicos-del-rey-scala-01.jpeg",
     "valor": 11234.56
   },
   {
     "id": 12,
     "desc": "Santana",
-    "imagem": "/carros/santana.jpg",
+    "imagem": "https://www.canaldapeca.com.br/blog/wp-content/uploads/2018/06/carpixel.net-1988-volkswagen-santana-meisterwerk-jp-46466-wide.jpg",
     "valor": 12345.67
   },
   {
     "id": 13,
     "desc": "Kombi",
-    "imagem": "/carros/kombi.jpg",
+    "imagem": "https://s2-autoesporte.glbimg.com/lZ06g62IS67hm_VvbL0J5PJdrus=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/B/S/FghADFTnuKeaPVLVAtFw/2020-03-19-volkswagen-e-bulli-concept-2020-1600-02.jpg",
     "valor": 13456.78
   },
   {
     "id": 14,
     "desc": "Passat",
-    "imagem": "/carros/passat.jpg",
+    "imagem": "https://s2-autoesporte.glbimg.com/Ei2bOmBNdcC3TSJpyVyY99KPmLg=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/t/h/XJQgAVQ5CeGVpTATlF5w/2019-10-03-passatfrente.jpg",
     "valor": 14567.89
   },
   {
     "id": 15,
     "desc": "Dodge Dart",
-    "imagem": "/carros/dodge-dart.jpg",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93rnjSwAen3xRydLthrXpr2oX7DZu2IuJ2yDmJ230HHYLML0Sa4aWRac&s=10",
     "valor": 15678.9
   }
 ]
